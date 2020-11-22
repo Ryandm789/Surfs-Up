@@ -12,13 +12,11 @@ The three differences between the June and Dec temperature statistics relevant t
 
 ### June Temp Stats
 
-<img src="Resource/SurfsUp(jun) img>"
-<B><li> SurfsUp(jun)</li></B>
+![June Temp Stats](Resource/images/SurfsUp_jun.png)
 
 ### Dec Temp Stats 
 
-<img src="Resource/SurfsUp(dec) img>"
-<B><li> SurfsUp(dec)</il></B>
+![December Temp Stats](Resource/images/SurfsUp_dec.png)
 
 ## Summary
 In summary, there was a slight difference in the mean and max temperatures in Oahu, HI, based on the datasets presented the weather was ideal base on the range preferential for the general population to enjoy activity at the beach. These statistical results provided positive support for the year round sustainability of the Surf & Ice Cream Shoppe business proposal.
